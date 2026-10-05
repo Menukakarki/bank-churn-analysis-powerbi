@@ -9,24 +9,29 @@ An end-to-end Power BI project analyzing customer churn and retention for a priv
 - Monthly churn trends
 - Churn analysis by geography
 - Membership analysis
+  ![Churn Overview](docs/customer_churn.png)
 
 # 2. Customer Demographics
 - Customer exits by credit card status
 - Churn by geography
 - Churn by gender
 - Demographic-based customer analysis
+  ![Customer Demographics](docs/customer_demographics.png)
+
 
 # 3. Churn Factors
 - Churn by geography and gender
 - Age-based churn trends
 - Tenure comparison between exited and retained customers
 - Top 10 exited customers
+ ![Churn Factors](docs/churn_factor_analyssi.png)
 
 # 4. Retention Analysis
 - Retention trends
 - Retained customers by geography
 - Retained customers by gender
 - Retention by credit card status
+ ![Retention Analysis](docs/retention_analysis.png)
 
 # Key DAX Measures
 
